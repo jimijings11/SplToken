@@ -1,4 +1,4 @@
-import * as anchor from "@coral-xyz/anchor";  
+import * as anchor from "@coral-xyz/anchor";
 import { Program } from "@coral-xyz/anchor";
 import { AnchorSplToken } from "../target/types/anchor_spl_token";
 import { TOKEN_PROGRAM_ID } from "@coral-xyz/anchor/dist/cjs/utils/token";
