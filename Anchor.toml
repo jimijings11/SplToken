@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-anchor_spl_token = "BLN1XZ9eyaPwxGH5g9B3GF4Xvw3D1G3H98iMi3mAkiFx"
+anchor_spl_token = "56EWmgyiEcXFwVu55n49Y8dsunada6pD273XaDRWs1LH"
 # anchor_spl_token = "target/deploy/anchor_spl_token.so"
 
 [registry]

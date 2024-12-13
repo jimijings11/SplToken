@@ -5,7 +5,7 @@ use anchor_spl::{
 };
 use mpl_token_metadata::state::DataV2;
 
-declare_id!("BLN1XZ9eyaPwxGH5g9B3GF4Xvw3D1G3H98iMi3mAkiFx");
+declare_id!("56EWmgyiEcXFwVu55n49Y8dsunada6pD273XaDRWs1LH");
 ///put the program id here
 
 #[program]
